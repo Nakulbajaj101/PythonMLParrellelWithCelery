@@ -1,0 +1,1 @@
+  select * from `ccdata_apple_integration.entity`
